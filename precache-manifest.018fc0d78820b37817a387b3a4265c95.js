@@ -1,43 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ead4acb2faa08f1650edcf7a32823b92",
+    "revision": "96a7860df5509dafdc1dedd63a809c8b",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/index.html"
   },
   {
-    "revision": "801f433d36a35d32f2b5",
+    "revision": "5ec632d2b35157c97f30",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "6922bda447af38297a1d",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/4.e91a4b36.chunk.css"
+    "revision": "78ea8d24d74b0c43b25d",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.b0462631.chunk.css"
   },
   {
-    "revision": "e9816b8eace12f83762f",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.6eea6394.chunk.css"
+    "revision": "4864b3d8ac76ce2a6bae",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.1c9494aa.chunk.js"
   },
   {
-    "revision": "bb3ce0241fa82d23f775",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.22839767.chunk.js"
+    "revision": "570d362d673dab785e62d2b8563e1118",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.1c9494aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.22839767.chunk.js.LICENSE.txt"
+    "revision": "5ec632d2b35157c97f30",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.6df99d51.chunk.js"
   },
   {
-    "revision": "801f433d36a35d32f2b5",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.d5369665.chunk.js"
+    "revision": "78ea8d24d74b0c43b25d",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.9827f41e.chunk.js"
   },
   {
-    "revision": "6922bda447af38297a1d",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/4.4b7a9cd9.chunk.js"
-  },
-  {
-    "revision": "e9816b8eace12f83762f",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.94fb1c57.chunk.js"
-  },
-  {
-    "revision": "8589b475e20cb5bd4963",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/runtime-main.2a6b4458.js"
+    "revision": "be58c04b43c9edbd6188",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/runtime-main.97b96d01.js"
   },
   {
     "revision": "a675daac4f528736c4f3d184b4c4eadc",
@@ -82,14 +74,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/quoraLogo.4b2938b9.png"
-  },
-  {
-    "revision": "3440939881da8339d1597e8d77cdf850",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/talksCardBack.13780cdd.svg"
   },
   {
     "revision": "7af38251cc674bdf03dd30269f15eb2f",
