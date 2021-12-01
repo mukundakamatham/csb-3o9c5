@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbb50d023c9bad1e5cce9473381c5abe",
+    "revision": "db13950195167f881b4eafd311bfb438",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "45899e674256fad9764d",
+    "revision": "7ae795df57ba73d17260",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.b0462631.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.b09f4fca.chunk.js"
   },
   {
-    "revision": "45899e674256fad9764d",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.2925f219.chunk.js"
+    "revision": "7ae795df57ba73d17260",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.31e10074.chunk.js"
   },
   {
     "revision": "c400e298012852b5e023",
