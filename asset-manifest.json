@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.3c6a4b1e.chunk.css",
-    "main.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.845011cd.chunk.js",
-    "main.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.845011cd.chunk.js.map",
-    "runtime-main.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/runtime-main.35669ed9.js",
-    "runtime-main.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/runtime-main.35669ed9.js.map",
+    "main.css": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.4438dc65.chunk.css",
+    "main.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.55e7d3c6.chunk.js",
+    "main.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.55e7d3c6.chunk.js.map",
+    "runtime-main.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/runtime-main.8190be06.js",
+    "runtime-main.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/runtime-main.8190be06.js.map",
     "static/js/2.8ae1926b.chunk.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.8ae1926b.chunk.js",
     "static/js/2.8ae1926b.chunk.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.8ae1926b.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "https://mukundakamatham.github.io/csb-3o9c5/static/css/3.df879eac.chunk.css",
-    "static/js/3.b09f4fca.chunk.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.b09f4fca.chunk.js",
-    "static/js/3.b09f4fca.chunk.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.b09f4fca.chunk.js.map",
+    "static/js/3.d6851e16.chunk.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.d6851e16.chunk.js",
+    "static/js/3.d6851e16.chunk.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.d6851e16.chunk.js.map",
     "index.html": "https://mukundakamatham.github.io/csb-3o9c5/index.html",
-    "precache-manifest.c711cc9f1b69b2307bf35e5f123b2a20.js": "https://mukundakamatham.github.io/csb-3o9c5/precache-manifest.c711cc9f1b69b2307bf35e5f123b2a20.js",
+    "precache-manifest.ee78e8234b54a70864f2d35894a268a0.js": "https://mukundakamatham.github.io/csb-3o9c5/precache-manifest.ee78e8234b54a70864f2d35894a268a0.js",
     "service-worker.js": "https://mukundakamatham.github.io/csb-3o9c5/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "https://mukundakamatham.github.io/csb-3o9c5/static/css/3.df879eac.chunk.css.map",
-    "static/css/main.3c6a4b1e.chunk.css.map": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.3c6a4b1e.chunk.css.map",
+    "static/css/main.4438dc65.chunk.css.map": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.4438dc65.chunk.css.map",
     "static/js/2.8ae1926b.chunk.js.LICENSE.txt": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.8ae1926b.chunk.js.LICENSE.txt",
     "static/media/AMCCOLLEGELOGO.png": "https://mukundakamatham.github.io/csb-3o9c5/static/media/AMCCOLLEGELOGO.a675daac.png",
     "static/media/index.css": "https://mukundakamatham.github.io/csb-3o9c5/static/media/Montserrat-Regular.ee653992.ttf",
@@ -30,9 +30,9 @@
     "static/media/www.mpl.live_ (1).png": "https://mukundakamatham.github.io/csb-3o9c5/static/media/www.mpl.live_ (1).43ac718b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.35669ed9.js",
+    "static/js/runtime-main.8190be06.js",
     "static/js/2.8ae1926b.chunk.js",
-    "static/css/main.3c6a4b1e.chunk.css",
-    "static/js/main.845011cd.chunk.js"
+    "static/css/main.4438dc65.chunk.css",
+    "static/js/main.55e7d3c6.chunk.js"
   ]
 }
