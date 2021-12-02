@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "484518f1f8e38a0c0d3b1922b743ecb8",
+    "revision": "838c472fa7f154243512db213734a857",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "1dbc9f322d84bf628479",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.4438dc65.chunk.css"
+    "revision": "aeaeb1be300cf2274f7d",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.a4a7a71c.chunk.css"
   },
   {
     "revision": "21b178ec429ee2ae8b31",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.d6851e16.chunk.js"
   },
   {
-    "revision": "1dbc9f322d84bf628479",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.55e7d3c6.chunk.js"
+    "revision": "aeaeb1be300cf2274f7d",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.3418efff.chunk.js"
   },
   {
     "revision": "9a588e5426bb620d5e52",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "358f8f1fdef01d3c0a8306f8f80973c2",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/masai.358f8f1f.jpeg"
   },
   {
     "revision": "f70178556f3d6962886360cb7cb95051",

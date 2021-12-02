@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.4438dc65.chunk.css",
-    "main.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.55e7d3c6.chunk.js",
-    "main.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.55e7d3c6.chunk.js.map",
+    "main.css": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.a4a7a71c.chunk.css",
+    "main.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.3418efff.chunk.js",
+    "main.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.3418efff.chunk.js.map",
     "runtime-main.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/runtime-main.8190be06.js",
     "runtime-main.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/runtime-main.8190be06.js.map",
     "static/js/2.8ae1926b.chunk.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.8ae1926b.chunk.js",
@@ -11,10 +11,10 @@
     "static/js/3.d6851e16.chunk.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.d6851e16.chunk.js",
     "static/js/3.d6851e16.chunk.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.d6851e16.chunk.js.map",
     "index.html": "https://mukundakamatham.github.io/csb-3o9c5/index.html",
-    "precache-manifest.ee78e8234b54a70864f2d35894a268a0.js": "https://mukundakamatham.github.io/csb-3o9c5/precache-manifest.ee78e8234b54a70864f2d35894a268a0.js",
+    "precache-manifest.eb57db1c413c8e06212e88e644166a15.js": "https://mukundakamatham.github.io/csb-3o9c5/precache-manifest.eb57db1c413c8e06212e88e644166a15.js",
     "service-worker.js": "https://mukundakamatham.github.io/csb-3o9c5/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "https://mukundakamatham.github.io/csb-3o9c5/static/css/3.df879eac.chunk.css.map",
-    "static/css/main.4438dc65.chunk.css.map": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.4438dc65.chunk.css.map",
+    "static/css/main.a4a7a71c.chunk.css.map": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.a4a7a71c.chunk.css.map",
     "static/js/2.8ae1926b.chunk.js.LICENSE.txt": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.8ae1926b.chunk.js.LICENSE.txt",
     "static/media/AMCCOLLEGELOGO.png": "https://mukundakamatham.github.io/csb-3o9c5/static/media/AMCCOLLEGELOGO.a675daac.png",
     "static/media/index.css": "https://mukundakamatham.github.io/csb-3o9c5/static/media/Montserrat-Regular.ee653992.ttf",
@@ -24,6 +24,7 @@
     "static/media/developerActivity.svg": "https://mukundakamatham.github.io/csb-3o9c5/static/media/developerActivity.59389695.svg",
     "static/media/facebookLogo.png": "https://mukundakamatham.github.io/csb-3o9c5/static/media/facebookLogo.8ddf76a1.png",
     "static/media/manOnTable.svg": "https://mukundakamatham.github.io/csb-3o9c5/static/media/manOnTable.52be3144.svg",
+    "static/media/masai.jpeg": "https://mukundakamatham.github.io/csb-3o9c5/static/media/masai.358f8f1f.jpeg",
     "static/media/python.jpg": "https://mukundakamatham.github.io/csb-3o9c5/static/media/python.f7017855.jpg",
     "static/media/quoraLogo.png": "https://mukundakamatham.github.io/csb-3o9c5/static/media/quoraLogo.4b2938b9.png",
     "static/media/www.firstcry.com_.png": "https://mukundakamatham.github.io/csb-3o9c5/static/media/www.firstcry.com_.7af38251.png",
@@ -32,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.8190be06.js",
     "static/js/2.8ae1926b.chunk.js",
-    "static/css/main.4438dc65.chunk.css",
-    "static/js/main.55e7d3c6.chunk.js"
+    "static/css/main.a4a7a71c.chunk.css",
+    "static/js/main.3418efff.chunk.js"
   ]
 }
