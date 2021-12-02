@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "838c472fa7f154243512db213734a857",
+    "revision": "3041b2807f7d3edc1baae8e8c0f6e36d",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "aeaeb1be300cf2274f7d",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.a4a7a71c.chunk.css"
+    "revision": "6dcfd1180a28eefa3433",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.8466e91f.chunk.css"
   },
   {
     "revision": "21b178ec429ee2ae8b31",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.d6851e16.chunk.js"
   },
   {
-    "revision": "aeaeb1be300cf2274f7d",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.3418efff.chunk.js"
+    "revision": "6dcfd1180a28eefa3433",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.1d662d90.chunk.js"
   },
   {
     "revision": "9a588e5426bb620d5e52",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/CIRCLE1.fc425977.png"
   },
   {
-    "revision": "da3e26b0476898cdbc2538b957b1df84",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/CIRCLE2.da3e26b0.png"
+    "revision": "b0c75aad30ddf0011461ae6e8834e88e",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/CRCLE2.b0c75aad.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "358f8f1fdef01d3c0a8306f8f80973c2",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/masai.358f8f1f.jpeg"
+    "revision": "5a8ab130840faeae566a203d90ed5f8d",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/masai.5a8ab130.jpeg"
   },
   {
     "revision": "f70178556f3d6962886360cb7cb95051",

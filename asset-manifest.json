@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.a4a7a71c.chunk.css",
-    "main.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.3418efff.chunk.js",
-    "main.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.3418efff.chunk.js.map",
+    "main.css": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.8466e91f.chunk.css",
+    "main.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.1d662d90.chunk.js",
+    "main.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.1d662d90.chunk.js.map",
     "runtime-main.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/runtime-main.8190be06.js",
     "runtime-main.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/runtime-main.8190be06.js.map",
     "static/js/2.8ae1926b.chunk.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.8ae1926b.chunk.js",
@@ -11,20 +11,20 @@
     "static/js/3.d6851e16.chunk.js": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.d6851e16.chunk.js",
     "static/js/3.d6851e16.chunk.js.map": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.d6851e16.chunk.js.map",
     "index.html": "https://mukundakamatham.github.io/csb-3o9c5/index.html",
-    "precache-manifest.eb57db1c413c8e06212e88e644166a15.js": "https://mukundakamatham.github.io/csb-3o9c5/precache-manifest.eb57db1c413c8e06212e88e644166a15.js",
+    "precache-manifest.d17fea595fa89a594745c1f06fc3082c.js": "https://mukundakamatham.github.io/csb-3o9c5/precache-manifest.d17fea595fa89a594745c1f06fc3082c.js",
     "service-worker.js": "https://mukundakamatham.github.io/csb-3o9c5/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "https://mukundakamatham.github.io/csb-3o9c5/static/css/3.df879eac.chunk.css.map",
-    "static/css/main.a4a7a71c.chunk.css.map": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.a4a7a71c.chunk.css.map",
+    "static/css/main.8466e91f.chunk.css.map": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.8466e91f.chunk.css.map",
     "static/js/2.8ae1926b.chunk.js.LICENSE.txt": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.8ae1926b.chunk.js.LICENSE.txt",
     "static/media/AMCCOLLEGELOGO.png": "https://mukundakamatham.github.io/csb-3o9c5/static/media/AMCCOLLEGELOGO.a675daac.png",
     "static/media/index.css": "https://mukundakamatham.github.io/csb-3o9c5/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/CIRCLE1.png": "https://mukundakamatham.github.io/csb-3o9c5/static/media/CIRCLE1.fc425977.png",
-    "static/media/CIRCLE2.png": "https://mukundakamatham.github.io/csb-3o9c5/static/media/CIRCLE2.da3e26b0.png",
+    "static/media/CRCLE2.png": "https://mukundakamatham.github.io/csb-3o9c5/static/media/CRCLE2.b0c75aad.png",
     "static/media/airbnbLogo.png": "https://mukundakamatham.github.io/csb-3o9c5/static/media/airbnbLogo.c59720d6.png",
     "static/media/developerActivity.svg": "https://mukundakamatham.github.io/csb-3o9c5/static/media/developerActivity.59389695.svg",
     "static/media/facebookLogo.png": "https://mukundakamatham.github.io/csb-3o9c5/static/media/facebookLogo.8ddf76a1.png",
     "static/media/manOnTable.svg": "https://mukundakamatham.github.io/csb-3o9c5/static/media/manOnTable.52be3144.svg",
-    "static/media/masai.jpeg": "https://mukundakamatham.github.io/csb-3o9c5/static/media/masai.358f8f1f.jpeg",
+    "static/media/masai.jpeg": "https://mukundakamatham.github.io/csb-3o9c5/static/media/masai.5a8ab130.jpeg",
     "static/media/python.jpg": "https://mukundakamatham.github.io/csb-3o9c5/static/media/python.f7017855.jpg",
     "static/media/quoraLogo.png": "https://mukundakamatham.github.io/csb-3o9c5/static/media/quoraLogo.4b2938b9.png",
     "static/media/www.firstcry.com_.png": "https://mukundakamatham.github.io/csb-3o9c5/static/media/www.firstcry.com_.7af38251.png",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.8190be06.js",
     "static/js/2.8ae1926b.chunk.js",
-    "static/css/main.a4a7a71c.chunk.css",
-    "static/js/main.3418efff.chunk.js"
+    "static/css/main.8466e91f.chunk.css",
+    "static/js/main.1d662d90.chunk.js"
   ]
 }
