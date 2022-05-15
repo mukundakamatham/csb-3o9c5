@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a89becbc652738d8b85ed1907e3fd5ee",
+    "revision": "0d18cd52954f78ee3406c1baae38a118",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "9d7a34eb18d75c1b3015",
+    "revision": "8c1be491fa9b3fbcde82",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.fef03beb.chunk.css"
   },
   {
@@ -24,16 +24,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.5bec3244.chunk.js"
   },
   {
-    "revision": "9d7a34eb18d75c1b3015",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.45cc51ae.chunk.js"
+    "revision": "8c1be491fa9b3fbcde82",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.67ba6c7f.chunk.js"
   },
   {
     "revision": "1472d209ae5f88237bd6",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/runtime-main.fceb1afd.js"
   },
   {
-    "revision": "29bfc020b1bfc934238f23afb43c6561",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/AMCCOLLEGELOGO.29bfc020.png"
+    "revision": "a675daac4f528736c4f3d184b4c4eadc",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/AMCCOLLEGELOGO.a675daac.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
