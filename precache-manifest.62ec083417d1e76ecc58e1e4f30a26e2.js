@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "772600ac6dc8a63a69a56e49c991bc08",
+    "revision": "855968b39e4c09e23df9af688ab7f2f7",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/index.html"
   },
   {
-    "revision": "1eb75468a338ad507955",
+    "revision": "c7429bc53c41a7d74b6e",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "cb2d865824e601d56213",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.8466e91f.chunk.css"
+    "revision": "5842285a48ccc982ab83",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/css/main.fef03beb.chunk.css"
   },
   {
-    "revision": "ce2f590e22148124427d",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.11c1de18.chunk.js"
+    "revision": "2fdd118a786ba430f963",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.228f94df.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.11c1de18.chunk.js.LICENSE.txt"
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/2.228f94df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1eb75468a338ad507955",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.d6851e16.chunk.js"
+    "revision": "c7429bc53c41a7d74b6e",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/3.5bec3244.chunk.js"
   },
   {
-    "revision": "cb2d865824e601d56213",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.f470d422.chunk.js"
+    "revision": "5842285a48ccc982ab83",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/main.8bd722cc.chunk.js"
   },
   {
-    "revision": "9a588e5426bb620d5e52",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/runtime-main.8190be06.js"
+    "revision": "1472d209ae5f88237bd6",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/js/runtime-main.fceb1afd.js"
   },
   {
     "revision": "29bfc020b1bfc934238f23afb43c6561",
@@ -52,16 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/airbnbLogo.c59720d6.png"
+    "revision": "872705a72d2d76cc6c7a0799ee02b2c2",
+    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/capgemini.872705a7.png"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/facebookLogo.8ddf76a1.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
@@ -78,10 +74,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "db2a0b0b20bb01af79b9a7379eae40f3",
     "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/python.db2a0b0b.jpg"
-  },
-  {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "https://mukundakamatham.github.io/csb-3o9c5/static/media/quoraLogo.4b2938b9.png"
   },
   {
     "revision": "2996cefc85f1449cb50e465187cb827d",
